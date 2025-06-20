@@ -1,6 +1,6 @@
 # Git & GitHub Workshop Resources
 
-This repository contains reference materials for Git & GitHub workshops conducted by the CBIT Open Source Community.
+This folder contains reference materials for Git & GitHub workshops conducted by the CBIT Open Source Community.
 
 ## About
 
